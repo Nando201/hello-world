@@ -1,2 +1,2 @@
-# hello-world 
-This code before was Hello world but now is fucking world
+#Fucking-world
+This code before was fucking world but now is Hello World
